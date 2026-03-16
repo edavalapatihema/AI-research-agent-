@@ -8,3 +8,6 @@ beautifulsoup4>=4.12.0
 requests>=2.31.0
 duckduckgo-search>=5.0.0
 typing-extensions>=4.9.0
+
+# install everything with
+pip install -r requirements.txt
